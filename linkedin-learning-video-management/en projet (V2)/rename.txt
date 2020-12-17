@@ -1,0 +1,31 @@
+Welcome
+What you should know
+Explore Linux GUI choices
+Install GNOME3
+Install KDE 4
+Explore KDE 4
+Install MATE
+Explore MATE
+Install Cinnamon
+Explore Cinnamon
+Install Xfce
+Explore Xfce
+Summary of Linux GUI choices
+GUI remote access
+Prepare your VM for remote access
+Install VNC
+Configure VNC
+Troubleshoot VNC
+Install RDP
+Configure RDP
+Install X2Go
+Configure X2Go
+The Linux command line
+Choosing a terminal
+Choosing a shell
+Introducing Bash
+Access the Linux CLI from Windows
+Access the Linux CLI on iOS
+Access the Linux CLI on Android
+Access the Linux CLI from macOS and Linux
+Next Steps

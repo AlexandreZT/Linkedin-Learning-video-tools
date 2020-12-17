@@ -1,0 +1,7 @@
+1. à partir du fichier rename.txt créer, doit pouvoir renommer les fichiers
+	name name
+	eman eman
+2. numérote les vidéos dans le bonne ordre
+=>	587675_06_01_XR15_understandnestedresources
+retirer les 11 premiers charactères, ajouter un point et le nom de la ligne qui suit
+ou recupérer le 12e charactère
